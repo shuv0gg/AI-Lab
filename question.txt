@@ -1,0 +1,106 @@
+Python Programming Practice Problems
+
+Question 1 – Password Guessing Program [10 Marks]
+
+A system uses a 4-digit numeric password.
+Write a Python program that:
+Stores a secret password (example: 1234).
+Tries different number combinations from 0000 to 9999.
+Stops when the correct password is found.
+Prints the password and number of attempts.
+
+
+
+Question 2 – Prime Number Check [10 Marks]
+
+Write a Python program that:
+Takes an integer n from the user.
+Checks whether the number is prime or not.
+Prints the result.
+
+Question 3 – Largest Number in a List [10 Marks]
+
+Write a Python program that:
+Takes 5 numbers from the user.
+Stores them in a list.
+Finds the largest number without using built-in functions like max().
+
+Question 4 – Find Pair with Target Sum [10 Marks]
+
+Given the list:
+numbers = [2, 4, 7, 11, 15] 
+Write a Python program that finds two numbers whose sum is 9 and prints the pair.
+
+Question 5 – Count Number Frequency [10 Marks]
+
+Given the list:
+numbers = [3, 5, 3, 7, 9, 5, 3] 
+Write a Python program that counts how many times each number appears in the list.
+
+Question 6 – Word Search in Sentence [10 Marks]
+
+Given the text:
+text = "machine learning is interesting" 
+Write a Python program that finds the starting index of the word "learning" in the sentence.
+
+Question 7 – Grade Calculator [10 Marks]
+
+Write a Python program that:
+Takes a student’s marks as input.
+Prints the grade using the following rule:
+MarksGrade80–100A70–79B60–69C50–59DBelow 50F 
+Numerical Computing
+
+Question 8 – NumPy Random Numbers [10 Marks]
+
+Write a Python program that:
+Generates 10 random numbers between 0 and 1 using NumPy.
+Prints the array.
+Calculates and prints: 
+Mean
+Maximum value
+Minimum value.
+Data Analysis
+
+Question 9 – Student DataFrame Analysis [10 Marks]
+
+Create a DataFrame with the following data:
+NameMarksAlice85Bob72Charlie90David65Eva78 
+Write a Python program that:
+Prints the DataFrame.
+Calculates the average marks.
+Displays the names of students whose marks are greater than 75.
+Data Visualization
+
+Question 10 – Study Hours vs Marks Visualization [10 Marks]
+
+Create the following lists:
+hours = [1, 2, 3, 4, 5, 6] marks = [50, 55, 60, 65, 70, 80] 
+Write a Python program that:
+Plots a scatter graph showing the relationship between study hours and marks.
+Labels the axes appropriately.
+Displays the graph.
+Machine Learning
+
+Question 11 – Linear Regression Prediction [15 Marks]
+
+Using the dataset below:
+x = [[1], [2], [3], [4], [5]] y = [2, 4, 5, 4, 5] 
+Write a Python program that:
+Trains a Linear Regression model.
+Predicts the value of y when x = 6.
+Prints: 
+Predicted value
+Intercept
+Slope.
+
+Question 12 – Regression Visualization [15 Marks]
+
+Write a Python program that:
+Generates random data using NumPy.
+
+Plots the data using a scatter plot.
+Trains a Linear Regression model.
+Plots the best-fit regression line on the graph.
+
+Egular solution keo korsos?
